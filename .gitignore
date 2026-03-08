@@ -1,0 +1,6 @@
+/target
+/.cargo/
+*.exe
+*.qor08b
+model.qor08b
+*.txt
